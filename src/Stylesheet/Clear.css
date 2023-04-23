@@ -1,0 +1,29 @@
+.clear-buttom {
+
+
+    height: 255%;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background-color: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 45px;
+    border: 2px solid white;
+    cursor: pointer;
+    background-color: brown;
+    margin-top: 10px;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    padding-block: 1%;
+}
+
+.clear-buttom:hover {
+
+    background-color: orange;
+
+
+}
+
